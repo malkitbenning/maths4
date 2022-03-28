@@ -1,0 +1,116 @@
+
+body{
+  font-family: sans-serif;
+}
+
+.header{
+  text-align: center;
+  color: white;
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+  /* background-image: linear-gradient(to right, #a517ba, #5f1782); */
+  /* background-image: linear-gradient(to right, #dfc6d1, #a517ba); */
+  background-color: #a517ba;
+  margin-bottom: 0;
+}
+.result-header{
+  text-align: center;
+  color: white;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  /* background-image: linear-gradient(to right, #a517ba, #5f1782); */
+  /* background-image: linear-gradient(to right, #dfc6d1, #a517ba); */
+  background-color: #009400;
+  margin-bottom: 3%;
+}
+
+.cartoon{
+  width: 30%;
+}
+
+.img-sized{
+padding-left: 5px;
+padding-right: 5px;
+  /* height: 5%; */
+  width: 25rem;
+  margin: 1rem 0;
+}
+
+.shade1{
+  background-color: white;
+}
+
+.shade2{
+  background-color: #e3e4e5;
+}
+
+.question{
+  padding: 10px;
+  font-size: 30px;
+  /* background: red; */
+}
+
+.quest-phrase{
+  /* padding-top: 5px; */
+  padding-left: 25px;
+  font-size: 25px;
+  /* display: inline-block; */
+}
+
+
+
+.input-field{
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 25px;
+  background-color: #ffe6f1;
+  font-size: 25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+}
+
+.input-field:focus{
+  background-color: white;
+  /* outline: 8px solid orange; */
+}
+
+.ending{
+  text-align: center;
+}
+
+.back-btn{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.wrong-num{
+  text-align: center;
+  font-family: sans-serif;
+  color: red;
+  font-size: 2rem;
+}
+.wrong-ans{
+  text-align: center;
+  font-family: sans-serif;
+  color: red;
+  font-size: 2rem;
+}
+
+.correct-num{
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 2rem;
+}
+.correct-ans{
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 2rem;
+}
+
+.buttons{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+
+}
